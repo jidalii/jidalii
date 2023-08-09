@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jida Li
 #### CS Student @BU
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am currently a Junior CS student at Boston University major. I am intreseted in web3 technology and web development. It would be very delighted if we can chat and discuss these tech to further improve our technical knowledge.
 
 Skills: Java, Python, Solidity, JavaScript, HTML&CSS
 
