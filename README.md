@@ -4,7 +4,7 @@ I am currently a Junior CS student at Boston University major. I am intreseted i
 
 Skills: Java, Python, Solidity, JavaScript, HTML&CSS
 
-- 🔭 I’m currently working on web adn web3 development. 
+- 🔭 I’m currently working on web and web3 development. 
 - 🌱 I’m currently learning Web3 
 
 
