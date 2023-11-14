@@ -5,7 +5,7 @@ I am currently a Junior CS student at Boston University. I am intreseted in back
 - 🔭 I’m currently working on web and web3 development. 
 - 🌱 I’m currently learning Web3 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>                
