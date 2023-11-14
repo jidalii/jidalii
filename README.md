@@ -6,7 +6,7 @@ Skills: Python, Java, JavaScript, C, HTML&CSS, Solidity
 
 Backend Framework: FastAPI, Express
 
-Database: Mongodb, Sqlite
+Database: Mongodb, Sqlite, PostgreSQL
 
 - 🔭 I’m currently working on web and web3 development. 
 - 🌱 I’m currently learning Web3 
