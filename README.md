@@ -13,7 +13,7 @@ Database: Mongodb, Sqlite, PostgreSQL
 
 
 
-![Mongodb]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg")
+![Mongodb](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
 
                     
           
