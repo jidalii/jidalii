@@ -1,10 +1,12 @@
 ### Hi there 👋, my name is Jida Li
 #### CS Student @BU
-I am currently a Junior CS student at Boston University major. I am intreseted in web3 technology and web development. It would be very delighted if we can chat and discuss these tech to further improve our technical knowledge.
+I am currently a Junior CS student at Boston University. I am intreseted in backend development and web3 technology. It would be very delighted if we can chat and discuss these tech to further improve our technical knowledge.
 
-Skills: Java, Python, JavaScript, C, HTML&CSS, Solidity
+Skills: Python, Java, JavaScript, C, HTML&CSS, Solidity
 
-Web Development: FastAPI, Mongodb, Sqlite, Express
+Backend Framework: FastAPI, Express
+
+Database: Mongodb, Sqlite
 
 - 🔭 I’m currently working on web and web3 development. 
 - 🌱 I’m currently learning Web3 
