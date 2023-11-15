@@ -24,7 +24,11 @@ I am currently a Junior CS student at Boston University. I am intreseted in back
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jidalii&count-private=true&layout=compact)
+![Jida's GitHub stats](https://github-readme-stats.vercel.app/api?username=jidalii&count_private=true)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jidalii&layout=compact&count-private=true)
 
 ---
 
