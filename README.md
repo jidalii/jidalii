@@ -26,10 +26,16 @@ I am currently a Junior CS student at Boston University. I am intreseted in back
 
 ![Jida's GitHub stats](https://github-readme-stats-jidalii.vercel.app//api?username=jidalii&count_private=true)
 
----
+<a href="https://github.com/jidalii/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-jidalii.vercel.app/api?username=jidalii" />
+</a>
+<a href="https://github.com/jidalii/jidalii">
+  <img height=200 align="center" src="https://github-readme-stats-jidalii.vercel.app/api/top-langs?username=jidalii&layout=compact&langs_count=8&card_width=320" />
+</a>
+<!-- ---
 
-![Top Langs](https://github-readme-stats-jidalii.vercel.app//api/top-langs/?username=jidalii&layout=compact&count-private=true)
+![Top Langs](https://github-readme-stats-jidalii.vercel.app//api/top-langs/?username=jidalii&layout=compact&count-private=true) -->
 
----
+<!-- --- -->
 
 <!-- <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" /> -->
