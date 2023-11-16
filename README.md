@@ -25,7 +25,7 @@ I am currently a Junior CS student at Boston University. I am intreseted in back
 ---
 
 <a href="https://github.com/jidalii/jidalii">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api/top-langs?username=jidalii&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api/top-langs?username=jidalii&layout=compact&rank_icon=github&hide=EJS,html&card_width=320" />
 </a>
 <a href="https://github.com/jidalii/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api?username=jidalii&count-private=true&card_width=320" />
