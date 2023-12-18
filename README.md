@@ -1,8 +1,8 @@
-<center>
-<h1>Hi there 👋, I'am Jida Li</h2>
-<img src="https://komarev.com/ghpvc/?username=jidalii&color=green">
-<h2> 🏫 &nbsp;Student Devloper @BU</h3>
-</center>
+<div style="text-align: center;">
+    <h1>Hi there 👋, I'm Jida Li</h1>
+    <img src="https://komarev.com/ghpvc/?username=jidalii&color=green">
+    <h2>🏫 &nbsp;Student Developer @BU</h2>
+</div>
 
 - 🔭 I’m currently working on web and web3 development. 
 - 🌱 I’m currently learning backend development and Web3.
