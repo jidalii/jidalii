@@ -1,7 +1,9 @@
 <div style="text-align: center;">
     <h1 style="text-align: center;">Hi there 👋, I'm Jida Li</h1>
     <h2 style="text-align: center;">🏫 &nbsp;Student Developer @BU</h2>
-    <img style="text-align: center;" src="https://komarev.com/ghpvc/?username=jidalii&color=green">
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=jidalii&color=green" />
+    </p>
 </div>
 
 - 🔭 I’m currently working on web and web3 development. 
