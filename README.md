@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <h1 style="text-align: center;">Hi there 👋, I'm Jida Li</h1>
     <h2 style="text-align: center;">🏫 &nbsp;Student Developer @BU</h2>
     <p align="center">
