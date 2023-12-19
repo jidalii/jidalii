@@ -2,8 +2,8 @@
 <h2> 🏫 &nbsp;CS Student @BU</h3>
 I am currently a Junior CS student at Boston University. I am intreseted in backend development and web3 technology. It would be very delighted if we can chat and discuss these tech to further improve our technical knowledge.
 
-- 🔭 I’m currently working on web and web3 development. 
-- 🌱 I’m currently learning backend development and Web3 
+- 🔭 I’m currently working on web and web3 development.
+- 🌱 I’m currently learning backend development and Web3.
 
 ---
 
