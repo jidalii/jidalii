@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/jida_leeeee/">
    <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-Red?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F">
   </a>
-  <a href="jidali03@bu.edu">
+  <a href="mailto:jidali03@bu.edu">
    <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-Red?style=for-the-badge&logo=Gmail&logoColor=white&color=%23EA4335">
   </a>
 </div>
@@ -20,10 +20,11 @@
   </p>
 </div>
 
-
 <div align="center">
   <h1>Hi there 👋, I'm Jida Li</h1>
 </div>
+
+---
 
 - 💻 Currently, I'm studying Computer Science at Boston Univeristy.
 - 🔭 I’m currently working on backend development and web3 development.
