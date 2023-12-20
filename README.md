@@ -2,12 +2,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jida-li/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/jida_leeeee/">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-Red?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F">
+   <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-Red?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F">
+  </a>
+  <a href="jidali03@bu.edu">
+   <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-Red?style=for-the-badge&logo=Gmail&logoColor=white&color=%23EA4335">
   </a>
 </div>
 
@@ -17,14 +20,12 @@
 
 <div align="center">
     <h1>Hi there 👋, I'm Jida Li</h1>
-    <h2>🏫 &nbsp;Student Developer @BU</h2>
-    
 </div>
 
 - 💻 Currently, I'm studying Computer Science at Boston Univeristy.
 - 🔭 I’m currently working on backend development and web3 development.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedIn-Url)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jida-li/)
 ---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
