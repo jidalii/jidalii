@@ -25,7 +25,6 @@
 - 💻 Currently, I'm studying Computer Science at Boston Univeristy.
 - 🔭 I’m currently working on backend development and web3 development.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jida-li/)
 ---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
