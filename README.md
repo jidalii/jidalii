@@ -11,12 +11,14 @@
   </a>
 </div>
 
+<p align="center">
+      <img src="https://komarev.com/ghpvc/?username=jidalii&color=green" />
+</p>
+
 <div align="center">
     <h1>Hi there 👋, I'm Jida Li</h1>
     <h2>🏫 &nbsp;Student Developer @BU</h2>
-    <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=jidalii&color=green" />
-    </p>
+    
 </div>
 
 - 💻 Currently, I'm studying Computer Science at Boston Univeristy.
