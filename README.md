@@ -24,8 +24,6 @@
   <h1>Hi there 👋, I'm Jida Li</h1>
 </div>
 
----
-
 - 💻 Currently, I'm studying Computer Science at Boston Univeristy.
 - 🔭 I’m currently working on backend development and web3 development.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
