@@ -51,7 +51,7 @@
 ---
 
 <a href="https://github.com/jidalii/jidalii">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api/top-langs?username=jidalii&layout=compact&hide=EJS,jupyter%20notebook,html&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api/top-langs?username=jidalii&layout=compact&hide=EJS,jupyter%20notebook,html&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/jidalii/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api?username=jidalii&count-private=true&rank_icon=github&show_icons=true&card_width=320" />
