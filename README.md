@@ -26,7 +26,7 @@
 
 - 💻 Currently, I'm studying Computer Science at Boston Univeristy.
 - 🔭 I’m currently working on backend development and web3 development.
-- ⚡ I do Python and Go for fun.
+- ⚡ I do Python and Go for fun and C for school.
 
 ---
 
