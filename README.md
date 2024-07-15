@@ -34,8 +34,11 @@
 
 <p align="left">
 
-<h3> Languages: </h3>
-<p align="left">
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=go,solidity,javascript,python,c,rust,ocaml&perline=10&theme=light)](https://skillicons.dev)
+
+<!-- <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>  
@@ -43,10 +46,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="ocaml" width="45" height="45"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> -->
-</p>
+<!-- </p> -->
 
-<h3> Web developments and databases: </h3>
-<p align="left">
+### Web developments and databases
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,express,nodejs,nextjs&perline=10&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,ipfs,postgresql&perline=10&theme=light)](https://skillicons.dev)
+<!-- <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
@@ -55,20 +62,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/> -->
-</p>
+<!-- </p> -->
 
-<h3> DevOps: </h3>
-<p align="left">
+### DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,postman&perline=10&theme=light)](https://skillicons.dev)
+<!-- <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" alt="hardhat" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="docker" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="45" height="45" />
-                    
-          
-</p>
-        
-</p>
+</p> -->
 
 ---
 
