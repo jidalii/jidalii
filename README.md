@@ -25,8 +25,8 @@
 </div>
 
 - 💻 Currently, I'm studying Computer Science at Boston Univeristy.
-- 🔭 I’m currently working on backend development and web3 development.
-- ⚡ I do Go, and Solidity for fun.
+- 🔭 I’m currently interested in distributed system and blockchain development.
+- ⚡ I do Go and Solidity for fun.
 
 ---
 
