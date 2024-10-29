@@ -32,7 +32,7 @@
 
 ## 🚀 &nbsp;Tech Stack
 
-```(json)
+```json
 {
   "languages": ["Go", "Python", "Solidity", "JavaScript", "Shell", "C", "Java", "SQL/NoSQL", "LaTeX", "HTML/CSS"],
   "web_development": {
