@@ -32,11 +32,25 @@
 
 ## 🚀 &nbsp;Tech Stack
 
-<p align="left">
+```(json)
+{
+  "languages": ["Go", "Python", "Solidity", "JavaScript", "Shell", "C", "Java", "SQL/NoSQL", "LaTeX", "HTML/CSS"],
+  "web_development": {
+    "frameworks": ["Gin", "FastAPI", "Django", "Flutter", "Express", "React"],
+    "databases": ["MySQL", "Redis", "PostgreSQL", "MongoDB"],
+    "otherTools": ["RabbitMQ"]
+  },
+  "web3_development": ["Foundry", "Hardhat", "IPFS", "The Graph"],
+  "ci/cd": ["Git", "Docker", "Linux", "Postman", "Heroku"],
+}
 
-### Languages
+```
 
-[![My Skills](https://skillicons.dev/icons?i=go,solidity,javascript,python,c,rust,ocaml&perline=10&theme=light)](https://skillicons.dev)
+<!-- <p align="left">
+
+### Languages -->
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=go,solidity,javascript,python,c,rust,ocaml&perline=10&theme=light)](https://skillicons.dev) -->
 
 <!-- <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="45" height="45"/>  
@@ -48,13 +62,19 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> -->
 <!-- </p> -->
 
-### Web developments and databases
+<!-- ### Web developments and databases -->
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,express,nodejs,nextjs&perline=10&theme=light)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=fastapi,express,nodejs,nextjs&perline=10&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,ipfs,postgresql&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,ipfs,postgresql&perline=10&theme=light)](https://skillicons.dev) -->
+
+
+<!-- <img src="https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b" alt="hardhat" width="45" height="45"/>  
+<img src="https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397" alt="hardhat" width="45" height="45"/>   -->
+
+ 
+
 <!-- <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="45" height="45"/> 
@@ -64,9 +84,10 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/> -->
 <!-- </p> -->
 
-### DevOps
+<!-- ### DevOps -->
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,postman&perline=10&theme=light)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,postman&perline=10&theme=light)](https://skillicons.dev)
+<img src="https://www.openzeppelin.com/hubfs/foundry.svg" alt="fastapi" width="48" height="48"/>  -->
 <!-- <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
