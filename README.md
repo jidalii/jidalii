@@ -9,6 +9,9 @@
   <a href="https://www.instagram.com/jida_leeeee/">
    <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-Red?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F">
   </a>
+  <a href="https://jidalii.github.io/">
+   <img alt="Gmail Badge" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blog&logoColor=white">
+  </a>
   <a href="mailto:jidali03@bu.edu">
    <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-Red?style=for-the-badge&logo=Gmail&logoColor=white&color=%23EA4335">
   </a>
