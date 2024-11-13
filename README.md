@@ -1,35 +1,56 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> -->
+<div id="header" align="center">
+  <pre>
+   / \__
+       (    @\____
+      /         O
+    /   (_____)
+  /_____/   U
+  </pre>
 </div>
+<!-- <div id="header" align="center">
+  <pre>
+        ,_---~~~~~----._
+    _,,_,*^____      _____``*g*\"*, 
+  / __/ /'     ^.  /      \ ^@q   f
+ [  @f | @))    |  | @))   l  0 _/  
+  \`/   \~____ / __ \_____/    \
+    |           _l__l_           I
+    }          [______]           I
+    ]            | | |            |
+    ]             ~ ~             |
+    |                            |
+     |                           |
+  </pre>
+</div> -->
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jida-li/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/jida_leeeee/">
-   <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-Red?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F">
-  </a>
-  <a href="https://jidalii.github.io/">
-   <img alt="Gmail Badge" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Blog&logoColor=white">
-  </a>
-  <a href="mailto:jidali03@bu.edu">
-   <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-Red?style=for-the-badge&logo=Gmail&logoColor=white&color=%23EA4335">
-  </a>
+
+
+<div align="center">
+  <h1>GM, I'm Jida Li</h1>
 </div>
 
 <div>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jidalii&color=green" />
+    <img src="https://komarev.com/ghpvc/?username=jidalii&color=yellow" />
   </p>
 </div>
 
 <div align="center">
-  <h1>Hi there 👋, I'm Jida Li</h1>
+  <h2>📌 Connect with me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/jida-li/">🔗 LinkedIn</a> |
+    <a href="https://www.instagram.com/jida_leeeee/">📸 Instagram</a> |
+    <a href="https://jidalii.github.io/">📝 Blog</a> |
+    <a href="mailto:jidali03@bu.edu">✉️ Gmail</a>
+  </p>
 </div>
 
-- 💻 Currently, I'm studying Computer Science at Boston Univeristy.
-- 🔭 I’m currently interested in distributed system and blockchain development.
-- ⚡ I do Go and Solidity for fun.
+- 💻 Pursuing a CS degree with a focus on distributed systems and blockchain development.
+- 🔭 Currently working on projects in Solidity, zk-proofs, and Web3 applications, including Dapps and cryptography analysis.
+- ⚡ Passionate about leveraging Go and Solidity for innovative, decentralized solutions.
 
 ---
 
