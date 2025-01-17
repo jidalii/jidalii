@@ -73,10 +73,10 @@
 ---
 
 <a href="https://github.com/jidalii/jidalii">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api/top-langs?username=jidalii&layout=compact&count-private=true&hide=EJS,jupyter%20notebook,html,css,MakeFile&langs_count=6&card_width=300&theme=algolia" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api/top-langs?username=jidalii&layout=compact&count-private=true&hide=EJS,jupyter%20notebook,html,css,MakeFile&langs_count=6&card_width=300&theme=vue-dark" />
 </a>
 <a href="https://github.com/jidalii/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api?username=jidalii&count-private=true&rank_icon=github&show_icons=true&card_width=320&theme=algolia" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-jidalii.vercel.app/api?username=jidalii&count-private=true&rank_icon=github&show_icons=true&card_width=320&theme=vue-dark" />
 </a>
 
 ---
