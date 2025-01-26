@@ -58,12 +58,12 @@
 
 ```json
 {
-  "languages": ["Go", "Python", "Solidity", "JavaScript/TypeScript", "Shell", "Java", "C", "SQL/NoSQL"],
+  "languages": ["Go", "Python", "Solidity", "Java", "JavaScript/TypeScript", "Shell", "C", "SQL/NoSQL"],
   "web_development": {
-    "backend_frameworks": ["Gin", "FastAPI", "Django", "Express", "Flutter"],
-    "frontend_frameworks": ["React", "Next.js"],
-    "databases": ["MySQL", "Redis", "PostgreSQL", "MongoDB"],
-    "otherTools": ["RabbitMQ"]
+    "backend": ["Gin", "FastAPI", "Express", "Flutter"],
+    "frontend": ["React", "Next.js"],
+    "db": ["MySQL", "PostgreSQL", "MongoDB"],
+    "middleware": ["Redis","RabbitMQ"]
   },
   "web3_development": ["Foundry", "Hardhat", "IPFS", "The Graph"],
   "ci/cd": ["Git", "Docker", "Github Actions", "Linux", "Postman", "Heroku"],
