@@ -61,7 +61,6 @@
   "languages": ["Go", "Python", "Solidity", "Java", "JavaScript", "Shell", "C", "SQL/NoSQL"],
   "web_dev": {
     "backend": ["Gin", "go-zero", "FastAPI"],
-    // "frontend": ["React", "Next.js"],
     "db": ["MySQL", "PostgreSQL", "MongoDB"],
     "middleware": ["Redis", "Kafka"]
   },
