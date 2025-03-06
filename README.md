@@ -49,7 +49,7 @@
 </div>
 
 - 💻 Pursuing a CS degree with a focus on distributed systems and blockchain development.
-- 🔭 Currently working on projects in Solidity, zk-proofs, and Web3 applications, including Dapps and cryptography analysis.
+- 🔭 Currently working on projects in Solidity, zk-proofs, and Web3 applications, including DApps and cryptography analysis.
 - ⚡ Passionate about leveraging Go and Solidity for innovative, decentralized solutions.
 
 ---
@@ -58,15 +58,15 @@
 
 ```json
 {
-  "languages": ["Go", "Python", "Solidity", "Java", "JavaScript/TypeScript", "Shell", "C", "SQL/NoSQL"],
-  "web_development": {
-    "backend": ["Gin", "FastAPI", "Express", "Flutter"],
-    "frontend": ["React", "Next.js"],
+  "languages": ["Go", "Python", "Solidity", "Java", "JavaScript", "Shell", "C", "SQL/NoSQL"],
+  "web_dev": {
+    "backend": ["Gin", "go-zero", "FastAPI"],
+    // "frontend": ["React", "Next.js"],
     "db": ["MySQL", "PostgreSQL", "MongoDB"],
-    "middleware": ["Redis","RabbitMQ"]
+    "middleware": ["Redis", "Kafka"]
   },
-  "web3_development": ["Foundry", "Hardhat", "IPFS", "The Graph"],
-  "ci/cd": ["Git", "Docker", "Github Actions", "Linux", "Postman", "Heroku"],
+  "web3_dev": ["Foundry", "IPFS", "The Graph"],
+  "ci/cd": ["Git", "Docker", "Github Actions", "Linux"],
 }
 
 ```
